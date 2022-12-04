@@ -401,50 +401,7 @@ main {
   opacity: 1.0;
 }
 
-.coming-soon {
-  background: url(./assets/images/coming-soon.webp);
-  background-position: center;
-  opacity: 0.4;
-}
 
-.coming-soon:hover {
-  content: '';
-  background: url(./assets/images/coming-soon.webp);
-  background-size: cover;
-  transition: all 0.7s ease-in-out;
-  box-shadow: 5px 5px 5px var(--light);
-  opacity: 1.0;
-}
-
-.coming-soon2 {
-  background: url(./assets/images/coming-soon.webp);
-  background-position: center;
-  opacity: 0.4;
-}
-
-.coming-soon2:hover {
-  content: '';
-  background: url(./assets/images/coming-soon.webp);
-  background-size: cover;
-  transition: all 0.7s ease-in-out;
-  box-shadow: 5px 5px 5px var(--light);
-  opacity: 1.0;
-}
-
-.coming-soon3 {
-  background: url(./assets/images/coming-soon.webp);
-  background-position: center;
-  opacity: 0.4;
-}
-
-.coming-soon3:hover {
-  content: '';
-  background: url(./assets/images/coming-soon.webp);
-  background-size: cover;
-  transition: all 0.7s ease-in-out;
-  box-shadow: 5px 5px 5px var(--light);
-  opacity: 1.0;
-}
 .work-box:first-child {
   flex-basis: 100%;
   min-height: 450px;
