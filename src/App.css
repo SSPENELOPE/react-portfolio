@@ -321,15 +321,15 @@ main {
 
 /* Images and hover elements*/
 
-.tribute {
-  background: url(./assets/images/tributepage.png);
+.weather {
+  background: url(./assets/images/weather.png);
   background-size: cover;
   background-position: center;
   opacity: 0.4;
 }
 
-.tribute:hover {
-  background: url(./assets/images/tributepage.png);
+.weather:hover {
+  background: url(./assets/images/weather.png);
   background-size: cover;
   background-position: center;
   transition: all 0.7s ease-in-out;
@@ -337,15 +337,15 @@ main {
   opacity: 1.0;
 }
 
-.survey {
-  background: url(./assets/images/surveypage.png);
+.quiz {
+  background: url(./assets/images/quiz.png);
   opacity: 0.4;
   background-size: cover;
   background-position: center;
 }
 
-.survey:hover {
-  background: url(./assets/images/surveypage.png);
+.quiz:hover {
+  background: url(./assets/images/quiz.png);
   background-size: cover;
   background-position: center;
   transition: all 0.7s ease-in-out;
@@ -362,6 +362,38 @@ main {
 
 .beard:hover {
   background: url(./assets/images/beard.png);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.7s ease-in-out;
+  box-shadow: 5px 5px 5px var(--light);
+  opacity: 1.0;
+}
+
+.backend {
+  background: url(./assets/images/backend.png);
+  opacity: 0.4;
+  background-size: cover;
+  background-position: center;
+}
+
+.backend:hover {
+  background: url(./assets/images/backend.png);
+  background-size: cover;
+  background-position: center;
+  transition: all 0.7s ease-in-out;
+  box-shadow: 5px 5px 5px var(--light);
+  opacity: 1.0;
+}
+
+.mongo {
+  background: url(./assets/images/mongo.png);
+  opacity: 0.4;
+  background-size: cover;
+  background-position: center;
+}
+
+.mongo:hover {
+  background: url(./assets/images/mongo.png);
   background-size: cover;
   background-position: center;
   transition: all 0.7s ease-in-out;

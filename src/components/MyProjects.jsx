@@ -6,24 +6,25 @@ function MyProjects() {
             <section className="wrapper" id="my-projects">
                 <h2>My Projects</h2>
                 <div className="container">
-                    <a href="https://codepen.io/sspenelope/full/rNJVxYz" target="_blank" rel="noreferrer" className="work-box survey">
-                        <h3><u>Survey Form</u>HTML/CSS</h3>
-                    </a>
-
-                    <a href="https://codepen.io/sspenelope/full/qBxdBom" target="_blank" rel="noreferrer" className="work-box tribute">
-                        <h3><u>Tribute Page</u>HTML/CSS</h3>
-                    </a>
-
+                    
                     <a href="https://github.com/SSPENELOPE/TheBeardedReviewers" className="work-box beard">
                         <h3>Fullstack Application</h3>
                     </a>
 
-                    <a href="#" className="work-box coming-soon2">
-                        <h3>Coming Soon 2</h3>
+                    <a href="https://sspenelope.github.io/Coding-Quiz/" target="_blank" rel="noreferrer" className="work-box quiz">
+                        <h3><u>Coding Quiz</u> JS/Jquery</h3>
                     </a>
 
-                    <a href="#" className="work-box coming-soon3">
-                        <h3>Coming Soon 3</h3>
+                    <a href="https://sspenelope.github.io/Weather-Dashboard/" target="_blank" rel="noreferrer" className="work-box weather">
+                        <h3><u>Weather Dashboard</u> JavaScript</h3>
+                    </a>
+
+                    <a href="https://github.com/SSPENELOPE/Network-API" target="_blank" rel="norefferer" className="work-box mongo">
+                        <h3>MongoDB/NoSQL</h3>
+                    </a>
+
+                    <a href="https://github.com/SSPENELOPE/ecommerce-backend" target="_blank" rel="noreferrer" className="work-box backend">
+                        <h3>MYSQL/JS</h3>
                     </a>
                 </div>
             </section>
